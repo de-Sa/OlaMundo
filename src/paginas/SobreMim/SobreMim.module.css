@@ -1,0 +1,118 @@
+.fotoSobreMim {
+    position: relative;
+    top: -7rem;   
+    margin-left: 2rem;
+    width: 25vw;
+    float: right;
+    align-items: center;
+}
+
+.subtitulo {
+    margin-bottom: 2rem;
+    font-size: 3rem;
+    align-items: center;
+    padding-left: 10rem;
+}
+
+.paragrafo {
+    text-align: justify;
+    font-size: 2rem;
+    line-height: 2.75rem;
+    margin-bottom: 2.5rem;
+    align-items: center;
+    padding-left: 10rem;
+}
+
+@media (max-width: 2560px){
+    .fotoSobreMim { 
+        margin-left: 1rem;
+        width: 15vw;
+        float: right;
+        align-items: center;
+        position: relative;
+        top: -1rem;   
+        left: -10rem;
+        margin-left: 18rem;
+    }
+    
+    .subtitulo {
+        margin-bottom: 0.5rem;
+        font-size: 2.5rem;
+        align-items: center;
+        padding-left: 5rem;
+    }
+    
+    .paragrafo {
+        text-align: justify;
+        font-size: 1.75rem;
+        line-height: 2.25rem;
+        margin-bottom: 1.5rem;
+        align-items: center;
+        padding-left: 5rem;
+    }
+}
+
+@media (max-width: 1440px){
+    .fotoSobreMim {
+        margin-bottom: 0.5rem;
+        margin-left: 0.75rem;
+        width: 20vw;
+        float: right;
+        align-items: center;
+        position: relative;
+        top: 0.5rem;   
+        padding: 1rem;
+        left: 0.6rem;
+    }
+    
+    .subtitulo {
+        margin-bottom: 0.5rem;
+        font-size: 2.5rem;
+        align-items: center;
+        padding-left: 5rem;
+    }
+    
+    .paragrafo {
+        text-align: justify;
+        font-size: 1.75rem;
+        line-height: 2.25rem;
+        margin-bottom: 1.5rem;
+        align-items: center;
+        padding-left: 5rem;
+    }
+}
+
+@media (max-width: 1080px) {
+    .fotoSobreMim {
+        position: relative;
+        top: 0.5rem;
+        float: right;
+        display: block;
+        width: 20rem;
+    }
+
+    .paragrafo {
+        padding-left: 5rem;
+        margin-bottom: 1rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .fotoSobreMim {
+        width: 30%;
+    }
+
+    .subtitulo {
+        padding-left: 1rem;
+        font-size: 1.5rem;
+        line-height: 2rem;
+        margin-bottom: 1rem;
+        margin-top: 1rem;
+    }
+
+    .paragrafo {
+        padding-left: 1.75rem;
+        font-size: 1.25rem;
+        line-height: 1.75rem;
+    }
+}
