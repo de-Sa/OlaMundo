@@ -238,3 +238,40 @@
         transform: translate(-1.5rem, 0px);
     }
 }
+@media (max-width: 450px) {
+    .banner {
+        padding: 2rem 1rem;
+        display: block;
+    }
+ 
+    .titulo {
+        margin-bottom: 2rem;
+    }
+ 
+    .paragrafo {
+        margin-bottom: 2rem;
+    }
+ 
+    .imagens {
+        height: 307px;
+    }
+ 
+    .imagens > .minhaFoto, .imagens > .circuloColorido {
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+    }
+   
+    .imagens > .minhaFoto {
+        width: 195px;
+        transform: translate(5rem, 0px);
+        position: relative;
+        top: -95%;
+        left: -10%;
+    }
+   
+    .imagens > .circuloColorido {
+        width: 240px;
+        transform: translate(-1.5rem, 0px);
+    }
+}

@@ -9,9 +9,7 @@ export default function Banner() {
         <h1 className={styles.titulo}>Olá, Mundo!</h1>
 
         <p className={styles.paragrafo}>
-          Boas vindas! Sou Lucas de Sa, Analista e Desenvolvedora de Software.
-          Possuo a combinação ideial de habilidade e determinação para
-          transformar suas ideias em realidade. Vamos conversar?
+        Boas-vindas! Sou Lucas de Sá, Analista e Desenvolvedor de Software. Possuo a combinação ideal de habilidade e determinação para transformar suas ideias em realidade. Vamos conversar?
         </p>
       </div>
 
@@ -20,6 +18,7 @@ export default function Banner() {
           className={styles.circuloColorido}
           src={circuloColorido}
           aria-hidden={true}
+          alt="Complemento, Fundo da Foto"
         />
 
         <img

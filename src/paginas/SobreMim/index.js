@@ -11,32 +11,17 @@ export default function SobreMim() {
 
       <img
         src={fotoSobreMim}
-        alt="Foto do Antônio Evaldo sorrindo"
+        alt="Foto do Lucas com a Gatinha"
         className={styles.fotoSobreMim}
       />
       <p className={styles.paragrafo}>
-        Oi, tudo bem? Eu sou Lucas, desenvolvedor Front End e estou feliz de te
-        ver por aqui.
+        Oi, tudo bem? Eu sou Lucas, desenvolvedor Front-end, e estou feliz de te ver por aqui.
       </p>
       <p className={styles.paragrafo}>
-        Desde mais novo estive em contato constante com a tecnologia, desde
-        hardware's até software's em geral, porém eu não tinha certeza de qual
-        faculdade eu queria cursa, até que em meio a pandemia do Covid-19 em
-        2020, eu acompanhei meu irmão em seu inicio de carreira como QA(Quality
-        Assurance) e eu comecei a pegar interesse pela área, um pouco
-        antes,nessa msm época eu tinha escolhido momentaneamente um curso de
-        saúde, para não ficar parado, porém meu interesse por q.Por não ter
-        muito conhecimento na área de desenvolvedor, após um tempo pesquisando
-        sobre, escolhi cursar Análise e Desenvolvimento de Sistemas. Pois nisso
-        eu percebi que, conseguiria ter a certeza de qual área eu gostaria de
-        seguir carreira, ao decorrer do curso.
+      Desde mais novo estive em contato constante com a tecnologia, desde hardware até software em geral. Porém, eu não tinha certeza de qual faculdade eu queria cursar, até que em meio à pandemia da Covid-19 em 2020, eu acompanhei meu irmão no início de sua carreira como QA (Quality Assurance) e comecei a pegar interesse pela área. Um pouco antes, nessa mesma época, eu tinha escolhido momentaneamente um curso de saúde para não ficar parado. Porém, meu interesse por QA, por não ter muito conhecimento na área de desenvolvimento, após um tempo pesquisando sobre, escolhi cursar Análise e Desenvolvimento de Sistemas. Pois nisso eu percebi que conseguiria ter a certeza de qual área eu gostaria de seguir carreira, ao decorrer do curso.
       </p>
       <p className={styles.paragrafo}>
-        Minha história com programação começou em 2022 em Belo Horizonte(BH) na
-        UniBh, porém Logo no meu primeiro ano na faculdade, eu aprendi lógica de
-        programação e o básico de várias linguagens, como Java, Python, C#, mas
-        me despertou interesse em JavaScript no qual estou aprofundando e
-        adquirindo mais conhecimento.
+      Minha história com programação começou em 2022 em Belo Horizonte (BH), na UniBH. Logo no meu primeiro ano na faculdade, aprendi lógica de programação e o básico de várias linguagens, como Java, Python e C#, mas despertou-me interesse em JavaScript, no qual estou me aprofundando e adquirindo mais conhecimento.
       </p>
     </PostModelo>
   );

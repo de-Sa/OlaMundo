@@ -116,3 +116,24 @@
         line-height: 1.75rem;
     }
 }
+
+@media (max-width: 450px) {
+    .fotoSobreMim {
+        width: 50%;
+    }
+
+    .subtitulo {
+        padding-left: 1rem;
+        font-size: 1.5rem;
+        line-height: 2rem;
+        margin-bottom: 1rem;
+        margin-top: 1rem;
+    }
+
+    .paragrafo {
+        padding-left: 1rem;
+        font-size: 1.2rem;
+        line-height: 1.5rem;
+    }
+}
+
