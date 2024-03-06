@@ -5,6 +5,7 @@
     flex-wrap: wrap;
     gap: 1.5rem;
     margin-top: -2.5rem;
+    background-image: linear-gradient(to bottom, #0418333b, #00000004);
 }
  
 @media (max-width: 1100px) {
