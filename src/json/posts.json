@@ -7,7 +7,7 @@
     {
         "id": 2,
         "titulo": "Projeto 'Olá Mundo'",
-        "texto": "A pagina/blog 'Olá Mundo' desenvolvida com o professor `Antônio Evaldo`, no qual me inspirou a transformar essa pagina em meu PortFolio. \n\nEste é um projeto que utiliza do react-router-dom, no qual utilizei os componentes BrowserRouter, Routes, Route, Link, Outlet e Hooks como o useParams e useNavigate do react-router-dom.\n\nEsse projeto foi feito em formato SPAs(Single Page Applications), no qual é são paginas compostas por uma única página HTML, e seu conteúdo é alterado dinamicamente pelo JavaScript.\n\n Caso tenha em ver esse trabalho no formato original, estou disponibilizando o link a seguir:\n\n\n\nLink: [Projeto Olá Mundo](https://organo-one-mu.vercel.app/)"
+        "texto": "A pagina/blog 'Olá Mundo' desenvolvida com o professor `Antônio Evaldo`, no qual me inspirou a transformar essa pagina em meu PortFolio. \n\nEste é um projeto que utiliza do react-router-dom, no qual utilizei os componentes BrowserRouter, Routes, Route, Link, Outlet e Hooks como o useParams e useNavigate do react-router-dom.\n\nEsse projeto foi feito em formato SPAs(Single Page Applications), no qual é são paginas compostas por uma única página HTML, e seu conteúdo é alterado dinamicamente pelo JavaScript.\n\n Caso tenha em ver esse trabalho no formato original, estou disponibilizando o link a seguir:\n\n\n\nLink: [Projeto Olá Mundo](https://ola-mundo-lds.vercel.app/)"
     },
     {
         "id": 3,
