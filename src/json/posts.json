@@ -2,17 +2,17 @@
     {
         "id": 1,
         "titulo": "Projeto Organo",
-        "texto": "Aqui está um dos meus primeiros projetos, o organo: \n\n(Ps: escrever mais sobre) \n\nLink: [Projeto Organo](https://organo-one-mu.vercel.app/)"
+        "texto": "Aqui está um dos meus primeiros projetos, desenvolvido com os professores `Vinicios Neves` e `Paulo Silveira`\n\nO organo que é um sistema de cadastro em que você pode inserir com imagens e listas de forma dinâmica.\n\nNesse projeto, aprendi a passar props para um componente, rederizar listas com o .map, controlar inputs utilizando `valur` e `onChange`, gerenciador o estado de um componente com `useState`, Manipular, transformar e filtrar itens de um arrays.\n\nA seguir, estarei disponibilizando um link para acessar esse projeto. \n\nLink: [Projeto Organo](https://organo-one-mu.vercel.app/)"
     },
     {
         "id": 2,
         "titulo": "Projeto 'Olá Mundo'",
-        "texto": "A pagina/blog 'Olá Mundo' desenvolvida com o professor piririm (colocar o nome dele), no qual me inspirou a criar essa pagina como meu PortFolio \n\nPs: falar mais sobre\n\nLink: [Projeto Olá Mundo](https://organo-one-mu.vercel.app/)"
+        "texto": "A pagina/blog 'Olá Mundo' desenvolvida com o professor `Antônio Evaldo`, no qual me inspirou a transformar essa pagina em meu PortFolio. \n\nEste é um projeto que utiliza do react-router-dom, no qual utilizei os componentes BrowserRouter, Routes, Route, Link, Outlet e Hooks como o useParams e useNavigate do react-router-dom.\n\nEsse projeto foi feito em formato SPAs(Single Page Applications), no qual é são paginas compostas por uma única página HTML, e seu conteúdo é alterado dinamicamente pelo JavaScript.\n\n Caso tenha em ver esse trabalho no formato original, estou disponibilizando o link a seguir:\n\n\n\nLink: [Projeto Olá Mundo](https://organo-one-mu.vercel.app/)"
     },
     {
         "id": 3,
         "titulo": "Projeto Fokus",
-        "texto": "A pagina 'Fokus' desenvolvida com o professor piririm (colocar o nome dele), no qual é uma pagina inspirada no comodoro, para auxiliar o Ser a focar na tarefe que tem para fazer \n\nPs: falar mais sobre\n\nLink: [Projeto Fokus](https://projeto-fokus-three.vercel.app/)"
+        "texto": "A pagina 'Fokus' desenvolvida com os professores `Luan Alves` e `Vinicios Neves`, no qual é uma pagina inspirada no comodoro, para auxiliar a pessoa a focar nas tarefas do dia a dia. \n\nEsse projeto foi desenvolvidor em dois cursos diferentes, no qual manipulei o DOM usando o JavaScript, utilizando de vários seletores e métodos, como querySelector, querySelectorAll, getElementsByClassName, getElementById, setInterval, clearInterval e diversos outros, para selecionar elementos no DOM.\n\n Caso tenha em ver esse trabalho, estou disponibilizando o link a seguir:\n\nLink: [Projeto Fokus](https://fokus-gamma.vercel.app/)"
     },
     {
         "id": 4,
