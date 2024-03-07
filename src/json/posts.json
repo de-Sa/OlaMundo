@@ -2,21 +2,21 @@
     {
         "id": 1,
         "titulo": "Projeto Organo",
-        "texto": "Aqui está um dos meus primeiros projetos, desenvolvido com os professores `Vinicios Neves` e `Paulo Silveira`\n\nO organo que é um sistema de cadastro em que você pode inserir com imagens e listas de forma dinâmica.\n\nNesse projeto, aprendi a passar props para um componente, rederizar listas com o .map, controlar inputs utilizando `valur` e `onChange`, gerenciador o estado de um componente com `useState`, Manipular, transformar e filtrar itens de um arrays.\n\nA seguir, estarei disponibilizando um link para acessar esse projeto. \n\nLink: [Projeto Organo](https://organo-one-mu.vercel.app/)"
+        "texto": "Aqui está um dos meus primeiros projetos, desenvolvido com os professores `Vinicios Neves` e `Paulo Silveira`.\n\nO Organo é um sistema de cadastro no qual você pode inserir itens com imagens e listas de forma dinâmica.\n\nNesse projeto, aprendi a passar props para um componente, renderizar listas com o método `map`, controlar inputs utilizando `value` e `onChange`, gerenciar o estado de um componente com `useState`, e manipular, transformar e filtrar itens de arrays.\n\nA seguir, estarei disponibilizando um link para acessar esse projeto.\n\nLink: [Projeto Organo](https://organo-one-mu.vercel.app/)"
     },
     {
         "id": 2,
-        "titulo": "Projeto 'Olá Mundo'",
-        "texto": "A pagina/blog 'Olá Mundo' desenvolvida com o professor `Antônio Evaldo`, no qual me inspirou a transformar essa pagina em meu PortFolio. \n\nEste é um projeto que utiliza do react-router-dom, no qual utilizei os componentes BrowserRouter, Routes, Route, Link, Outlet e Hooks como o useParams e useNavigate do react-router-dom.\n\nEsse projeto foi feito em formato SPAs(Single Page Applications), no qual é são paginas compostas por uma única página HTML, e seu conteúdo é alterado dinamicamente pelo JavaScript.\n\n Caso tenha em ver esse trabalho no formato original, estou disponibilizando o link a seguir:\n\n\n\nLink: [Projeto Olá Mundo](https://ola-mundo-lds.vercel.app/)"
+        "titulo": "Projeto Fokus",
+        "texto": "A página 'Fokus' foi desenvolvida com os professores `Luan Alves` e `Vinicios Neves`, sendo uma página inspirada no comodoro, projetada para auxiliar as pessoas a focarem em suas tarefas diárias.\n\nEste projeto foi desenvolvido em dois cursos diferentes nos quais manipulei o DOM usando JavaScript, empregando vários seletores e métodos, como querySelector, querySelectorAll, getElementsByClassName, getElementById, setInterval, clearInterval, entre outros, para selecionar elementos no DOM.\n\n Caso queira conferir este trabalho, estou disponibilizando o link a seguir:\n\nLink: [Projeto Fokus](https://fokus-gamma.vercel.app/)"
     },
     {
         "id": 3,
-        "titulo": "Projeto Fokus",
-        "texto": "A pagina 'Fokus' desenvolvida com os professores `Luan Alves` e `Vinicios Neves`, no qual é uma pagina inspirada no comodoro, para auxiliar a pessoa a focar nas tarefas do dia a dia. \n\nEsse projeto foi desenvolvidor em dois cursos diferentes, no qual manipulei o DOM usando o JavaScript, utilizando de vários seletores e métodos, como querySelector, querySelectorAll, getElementsByClassName, getElementById, setInterval, clearInterval e diversos outros, para selecionar elementos no DOM.\n\n Caso tenha em ver esse trabalho, estou disponibilizando o link a seguir:\n\nLink: [Projeto Fokus](https://fokus-gamma.vercel.app/)"
+        "titulo": "Projeto 'Olá Mundo'",
+        "texto": "A página/blog 'Olá Mundo' foi desenvolvida com o professor `Antônio Evaldo`, que me inspirou a transformar essa página em meu portfólio.\n\nEste é um projeto que utiliza o react-router-dom, onde empreguei os componentes BrowserRouter, Routes, Route, Link, Outlet e Hooks como useParams e useNavigate do react-router-dom.\n\nEste projeto foi elaborado no formato de SPAs (Single Page Applications), no qual as páginas são compostas por uma única página HTML, e seu conteúdo é alterado dinamicamente pelo JavaScript.\n\n Caso queira conferir este trabalho no formato original, estou disponibilizando o link a seguir:\n\n\n\nLink: [Projeto Olá Mundo](https://ola-mundo-lds.vercel.app/)"
     },
     {
         "id": 4,
-        "titulo": "Colocar projeto",
-        "texto": "Proximo Projeto"
+        "titulo": "Cifra Secreta",
+        "texto": "Desenvolvi este jogo junto ao professor `Guilherme Lima`, no qual a máquina escolhe um número aleatório entre 1 e 1000, e você tenta adivinhar falando.\n\nEste projeto foi desenvolvido com JavaScript, e o reconhecimento de voz foi feito com a `API Web Speech` para manipular os dados de voz reconhecidos. \n\nA seguir, estarei disponibilizando um link para acessar esse jogo e se divertir.\n\nLink: [Projeto Cifra Secreta](https://jogo-numero-secreto-lds.vercel.app/)"
     }
 ]
