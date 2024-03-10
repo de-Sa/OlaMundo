@@ -1,3 +1,9 @@
+.container {
+    position: relative;
+    left: 34.5rem;
+    display: grid;
+    max-width: 40rem;
+}
 .banner {
     padding: 3rem 7.5rem 6.25rem;
     background-color: var(--azul-escuro);
@@ -43,6 +49,7 @@
 @media (max-width: 2560px) {
     .banner {
         padding: 3rem 7.5rem 6.25rem;
+        
     }
 
     .titulo {
@@ -63,19 +70,18 @@
 
     .imagens > .minhaFoto {
         position: relative;
-        left: -4svw;
-        width: 12vw;
+        left: -2.5svw;
+        width: 11vw;
         bottom: -1.05vw;
-        margin-bottom: 30px;
-        margin-top: 2vw;
+        margin-bottom: 35px;
     }
 
     .imagens > .circuloColorido {
         position: relative;
         margin-bottom: 50px;
-        left: 6vw;
+        left:7vw;
         bottom: 0.5vw;
-        width: 14vw;
+        width: 13vw;
     }
 }
 
@@ -91,6 +97,7 @@
  
     .paragrafo {
         margin-bottom: 1.5rem;
+        
     }
  
     .imagens {
@@ -100,7 +107,7 @@
     .imagens > .minhaFoto {
         width: 14vw;
         position: relative;
-        left: -8rem;
+        left: -10rem;
         top: -2.5rem;
     }
    
@@ -111,7 +118,14 @@
     }
 }
 
-@media (max-width: 1440px) {    
+@media (max-width: 1440px) {  
+    .container {
+        position: relative;
+        left: 4rem;
+        display: grid;
+        max-width: 40rem;
+    }
+    
     .banner {
         padding: 3.5rem ;
     }
@@ -123,21 +137,25 @@
  
     .paragrafo {
         margin-bottom: 1.5rem;
+      
+        
     }
  
     .imagens {
-        height: 338px;
+        height: 400px;
     }
    
     .imagens > .minhaFoto {
-        width: 20vw;
+        top: -1rem;
+        width: 21vw;
         position: relative;
-        left: -10rem;
+        left: -6rem;
     }
    
     .imagens > .circuloColorido {
-        right: 10vw;
-        width: 25vw;
+        left: 12.5rem;
+        width: 22rem;
+        top: -1.5rem;
     }
 }
 
@@ -192,15 +210,16 @@
     }
    
     .imagens > .minhaFoto {
-        width: 30vw;
+        width: 26.5vw;
         position: relative;
-        top: -22rem;
-        left: 8rem;
+        top: -21rem;
+        left: 9rem;
     }
    
     .imagens > .circuloColorido {
-        right: 10vw;
-        width: 35vw;
+        top: -2rem;
+        left: 5rem;
+        width: 30vw;
     }
 }
  
