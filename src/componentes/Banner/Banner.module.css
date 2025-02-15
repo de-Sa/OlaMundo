@@ -204,17 +204,31 @@
    
 }
 @media (max-width: 450px) {
-    .banner {
-        padding: 2rem 1rem;
-        display: block;
+    
+    .container {
+        width: 10vw; 
+        height: 40vh; 
+        display: flex;
+        align-items: stretch;
+        
     }
- 
     .titulo {
+        position: relative;
+        top: 1rem;
+        left: 1rem;
         margin-bottom: 2rem;
+        width: 100%;
+        max-width: 100%;
     }
  
     .paragrafo {
-        margin-bottom: 2rem;
+        position: relative;
+        top: 1rem;
+        left: 1rem;
+        margin-bottom: 1rem;
+        width: 100%;
+        max-width: 100%;
+        word-break: keep-all;
     }
  
     .imagens {
@@ -222,11 +236,10 @@
     }
 
     .imagens > .minhaFoto {
-        width: 195px;
-        transform: translate(5rem, 0px);
+        width: 14rem;
         position: relative;
-        top: -95%;
-        left: -10%;
+        top: 5rem;
+        left: 1rem;
     }
    
 }
