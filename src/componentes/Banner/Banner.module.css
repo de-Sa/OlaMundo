@@ -243,3 +243,44 @@
     }
    
 }
+
+@media (max-width: 414px) {
+    
+    .container {
+        width: 10vw; 
+        height: 65vh; 
+        display: flex;
+        align-items: stretch;
+        
+    }
+    .titulo {
+        position: relative;
+        top: 1rem;
+        left: 1rem;
+        margin-bottom: 1rem;
+        width: 100%;
+        max-width: 100%;
+    }
+ 
+    .paragrafo {
+        position: relative;
+        top: 1rem;
+        left: 1rem;
+        margin-bottom: 1rem;
+        width: 100%;
+        max-width: 100%;
+        word-break: keep-all;
+    }
+ 
+    .imagens {
+        height: 307px;
+    }
+
+    .imagens > .minhaFoto {
+        width: 14rem;
+        position: relative;
+        top: 5rem;
+        left: 1rem;
+    }
+   
+}
